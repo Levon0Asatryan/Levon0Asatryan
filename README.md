@@ -15,7 +15,7 @@ I’m a Full-Stack Engineer with strong experience across modern web technologie
 
 ---
 
-# 🔗 Connect with Me
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="mailto:levonasatryan1098@gmail.com">
@@ -34,7 +34,7 @@ I’m a Full-Stack Engineer with strong experience across modern web technologie
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <details open>
   <summary><b>🧩 Languages</b></summary>
@@ -92,7 +92,7 @@ I’m a Full-Stack Engineer with strong experience across modern web technologie
 
 ---
 
-### 🏆 Certificates
+## 🏆 Certificates
 <p>
   <a href="https://www.credly.com/badges/643f5cd8-30eb-4d4d-9900-00e021be0b20/linked_in_profile">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="150"/>
@@ -101,7 +101,7 @@ I’m a Full-Stack Engineer with strong experience across modern web technologie
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Levon0Asatryan&theme=react&hide_border=false" height="160" />
