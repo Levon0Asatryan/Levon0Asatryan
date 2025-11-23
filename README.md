@@ -27,7 +27,7 @@ I’m a Full-Stack Engineer with strong experience across modern web technologie
   <a href="https://leetcode.com/u/levon_asatryan_0/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/dashboard">
+  <a href="https://www.hackerrank.com/profile/levonasatryan101">
     <img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
