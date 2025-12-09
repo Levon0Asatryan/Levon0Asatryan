@@ -105,5 +105,5 @@ I’m a Full-Stack Engineer with strong experience across modern web technologie
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Levon0Asatryan&theme=react&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Levon0Asatryan&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="160" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Levon0Asatryan&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="160" /> -->
 </p>
