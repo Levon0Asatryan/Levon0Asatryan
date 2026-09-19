@@ -17,3 +17,15 @@ My engineering interests include scalable systems, distributed architectures, ba
 ## GitHub Activity
 
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=Levon0Asatryan&theme=dark&hide_border=true"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=Levon0Asatryan&hide_border=true"
+      alt="GitHub contribution streak"
+    />
+  </picture>
+</p>
