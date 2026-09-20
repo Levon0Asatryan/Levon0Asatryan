@@ -14,18 +14,3 @@ My engineering interests include scalable systems, distributed architectures, ba
 
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/643f5cd8-30eb-4d4d-9900-00e021be0b20/linked_in_profile)
 
-## GitHub Activity
-
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=Levon0Asatryan&theme=dark&hide_border=true&v=2"
-    />
-    <img
-      src="https://streak-stats.demolab.com?user=Levon0Asatryan&hide_border=true&v=2"
-      alt="GitHub contribution streak"
-    />
-  </picture>
-</p>
